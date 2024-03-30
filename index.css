@@ -1,0 +1,21 @@
+.projectList {
+    display: flex;
+    flex: 0 0 66.6667%;
+}
+
+.projectList img{
+    width: 100px;
+    height: 100px;
+}
+.project {
+    padding: 30px;
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.intro {
+    text-align: center;
+}
